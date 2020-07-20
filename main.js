@@ -25,8 +25,3 @@
 // }
 
 // console.log(string);
-
-let array = [];
-let objest = {}
-
-console.log(typeof object);
